@@ -1,6 +1,9 @@
 Author: Harrison Smith - hsmit154@slcc.edu (Lab Aide, AI & Robotics Instructor for Verizon Innovative Learning)
+
 Author: Tyson Potter - tpotte20@slcc.edu (Lab Aide)
+
 If you need any other scripts please reach out to one of our emails.
+
 Date Created: February 28, 2024
  
 ## DESCRIPTION

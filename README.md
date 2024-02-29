@@ -7,11 +7,7 @@ If you need any other scripts please reach out to one of our emails.
 Date Created: February 28, 2024
  
 ## DESCRIPTION
-This is a PowerShell script intended for use at
-Salt Lake Community College which takes in a CSV file
-containing login DateTimes and Usernames, this will
-export a CSV file with the counts for each day of unique
-logins and a total number of unique logins a month
+This is a PowerShell script intended for use at Salt Lake Community College. Which takes in a CSV file containing login DateTimes and Usernames. The script will export a CSV file with the counts for each day of unique logins and the sum for the month.
  
 ## STEPS TO RUN
 1. Download the 'daily-monthly-unique-user-report.ps1' to your desktop.
